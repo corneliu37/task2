@@ -1,0 +1,44 @@
+{
+  "dataset": "PTB-XL",
+  "patient_id": "00001",
+  "record_id": "00001_lr",
+  "sampling_rate_hz": 100,
+  "n_channels": 12,
+  "cv_folds": 5,
+  "folds": [
+    {
+      "fold": 0,
+      "train_samples": 80,
+      "val_samples": 20
+    },
+    {
+      "fold": 1,
+      "train_samples": 80,
+      "val_samples": 20
+    },
+    {
+      "fold": 2,
+      "train_samples": 80,
+      "val_samples": 20
+    },
+    {
+      "fold": 3,
+      "train_samples": 80,
+      "val_samples": 20
+    },
+    {
+      "fold": 4,
+      "train_samples": 80,
+      "val_samples": 20
+    }
+  ],
+  "quality_control": {
+    "has_nan": false,
+    "has_inf": false,
+    "shape": [
+      100,
+      200,
+      12
+    ]
+  }
+}

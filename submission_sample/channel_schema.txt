@@ -1,0 +1,21 @@
+CHANNEL SCHEMA DOCUMENTATION
+============================
+
+HAR datasets (PAMAP2, WISDM, mHealth):
+  - Channels 0,1,2: tri-axial accelerometer (X, Y, Z axes)
+  - Channels 3,4,5: tri-axial gyroscope (X, Y, Z axes)
+  - Sampling rate: 20 Hz
+  - Window size: 10 seconds (200 samples) and 5 seconds (100 samples)
+
+EEG dataset (EEGMMIDB):
+  - Channels 0-63: 64 EEG channels (international 10-10 system)
+  - Sampling rate: 160 Hz
+  - Window size: 4 seconds (640 samples) aligned to T1/T2 events
+  - Preprocessing: bandpass filter 0.5-40 Hz, average re-referencing, z-score normalisation
+
+ECG dataset (PTB-XL):
+  - Channels 0-11: 12 standard leads (I, II, III, AVL, AVR, AVF, V1-V6)
+  - Sampling rate: 100 Hz
+  - Window size: 2 seconds (200 samples)
+  - Preprocessing: bandpass filter 0.5-45 Hz
+  - Cross-validation: 5 folds

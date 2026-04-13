@@ -1,0 +1,446 @@
+sample_id,dataset_name,modality,subject_id,split,label,sampling_rate_hz,n_channels,window_seconds,channel_schema,qc_flags
+pamap2_10s_0,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_1,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_2,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_3,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_4,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_5,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_6,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_7,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_8,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_9,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_10,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_11,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_12,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_13,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_14,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_15,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_16,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_17,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_18,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_19,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_20,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_21,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_22,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_23,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_24,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_25,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_26,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_27,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_28,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_29,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_30,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_31,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_32,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_33,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_34,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_35,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_36,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_37,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_38,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_39,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_40,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_41,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_42,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_43,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_44,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_45,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_46,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_47,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_48,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_49,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_50,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_51,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_52,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_53,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_54,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_55,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_56,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_57,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_58,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_59,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_60,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_61,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_62,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_63,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_64,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_65,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_66,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_67,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_68,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_69,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_70,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_71,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_72,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_73,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_74,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_75,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_76,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_77,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_78,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_79,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_80,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_81,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_82,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_83,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_84,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_85,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_86,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_87,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_88,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_89,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_90,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_91,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_92,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_93,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_94,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_95,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_96,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_97,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_98,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+pamap2_10s_99,PAMAP2,HAR,Protocol,pretrain,0,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_0,WISDM,HAR,9.38,pretrain,2.89289,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_1,WISDM,HAR,11.38,pretrain,3.63213,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_2,WISDM,HAR,13.38,pretrain,4.43231,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_3,WISDM,HAR,15.38,pretrain,3.89038,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_4,WISDM,HAR,17.38,pretrain,3.96752,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_5,WISDM,HAR,19.38,pretrain,3.6608,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_6,WISDM,HAR,21.38,pretrain,3.81539,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_7,WISDM,HAR,23.38,pretrain,4.08536,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_8,WISDM,HAR,25.38,pretrain,3.42895,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_9,WISDM,HAR,27.38,pretrain,3.47123,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_10,WISDM,HAR,29.38,pretrain,2.85117,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_11,WISDM,HAR,31.38,pretrain,4.0502,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_12,WISDM,HAR,33.38,pretrain,-1.01645,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_13,WISDM,HAR,35.38,pretrain,4.55252,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_14,WISDM,HAR,37.38,pretrain,5.70599,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_15,WISDM,HAR,39.38,pretrain,3.23723,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_16,WISDM,HAR,41.38,pretrain,1.63255,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_17,WISDM,HAR,43.38,pretrain,5.35176,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_18,WISDM,HAR,45.38,pretrain,-0.453348,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_19,WISDM,HAR,47.38,pretrain,1.48925,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_20,WISDM,HAR,49.38,pretrain,7.84708,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_21,WISDM,HAR,51.38,pretrain,8.38046,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_22,WISDM,HAR,53.38,pretrain,7.95588,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_23,WISDM,HAR,55.38,pretrain,7.87836,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_24,WISDM,HAR,57.38,pretrain,7.91523,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_25,WISDM,HAR,59.38,pretrain,5.9296,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_26,WISDM,HAR,61.38,pretrain,5.92563,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_27,WISDM,HAR,63.38,pretrain,5.85221,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_28,WISDM,HAR,65.38,pretrain,5.84787,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_29,WISDM,HAR,67.38,pretrain,5.65773,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_30,WISDM,HAR,69.38,pretrain,5.80993,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_31,WISDM,HAR,71.38,pretrain,6.00051,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_32,WISDM,HAR,73.38,pretrain,5.65761,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_33,WISDM,HAR,75.38,pretrain,5.8105,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_34,WISDM,HAR,77.38,pretrain,5.69461,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_35,WISDM,HAR,79.38,pretrain,5.92552,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_36,WISDM,HAR,81.38,pretrain,5.80943,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_37,WISDM,HAR,83.38,pretrain,5.69347,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_38,WISDM,HAR,85.38,pretrain,5.76916,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_39,WISDM,HAR,87.38,pretrain,5.73134,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_40,WISDM,HAR,89.38,pretrain,5.84693,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_41,WISDM,HAR,91.38,pretrain,5.80741,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_42,WISDM,HAR,93.38,pretrain,5.80818,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_43,WISDM,HAR,95.38,pretrain,5.92343,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_44,WISDM,HAR,97.38,pretrain,5.88689,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_45,WISDM,HAR,99.38,pretrain,5.77111,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_46,WISDM,HAR,101.38,pretrain,5.80672,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_47,WISDM,HAR,103.38,pretrain,5.65428,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_48,WISDM,HAR,105.38,pretrain,5.99933,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_49,WISDM,HAR,107.38,pretrain,6.2343,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_50,WISDM,HAR,109.38,pretrain,7.95519,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_51,WISDM,HAR,111.38,pretrain,7.95657,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_52,WISDM,HAR,113.38,pretrain,7.91757,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_53,WISDM,HAR,115.38,pretrain,7.80329,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_54,WISDM,HAR,117.38,pretrain,7.53288,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_55,WISDM,HAR,119.38,pretrain,7.95581,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_56,WISDM,HAR,121.38,pretrain,7.84118,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_57,WISDM,HAR,123.38,pretrain,7.84118,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_58,WISDM,HAR,125.38,pretrain,7.76429,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_59,WISDM,HAR,127.38,pretrain,7.95443,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_60,WISDM,HAR,129.38,pretrain,7.80141,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_61,WISDM,HAR,131.38,pretrain,7.80242,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_62,WISDM,HAR,133.38,pretrain,8.0322,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_63,WISDM,HAR,135.38,pretrain,7.9194,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_64,WISDM,HAR,137.38,pretrain,7.99395,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_65,WISDM,HAR,139.38,pretrain,7.8398,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_66,WISDM,HAR,141.38,pretrain,7.91782,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_67,WISDM,HAR,143.38,pretrain,7.83916,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_68,WISDM,HAR,145.38,pretrain,7.72485,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_69,WISDM,HAR,147.38,pretrain,7.80129,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_70,WISDM,HAR,149.38,pretrain,7.72403,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_71,WISDM,HAR,151.38,pretrain,4.47572,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_72,WISDM,HAR,153.38,pretrain,-0.616273,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_73,WISDM,HAR,155.38,pretrain,-8.39732,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_74,WISDM,HAR,157.38,pretrain,-8.28083,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_75,WISDM,HAR,159.38,pretrain,-8.19763,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_76,WISDM,HAR,161.38,pretrain,-8.28012,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_77,WISDM,HAR,163.38,pretrain,-8.43464,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_78,WISDM,HAR,165.38,pretrain,-8.2033,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_79,WISDM,HAR,167.38,pretrain,-8.16415,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_80,WISDM,HAR,169.38,pretrain,-8.04972,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_81,WISDM,HAR,171.38,pretrain,-8.01077,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_82,WISDM,HAR,173.38,pretrain,-8.27918,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_83,WISDM,HAR,175.38,pretrain,-8.2408,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_84,WISDM,HAR,177.38,pretrain,-8.20241,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_85,WISDM,HAR,179.38,pretrain,-8.16447,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_86,WISDM,HAR,181.38,pretrain,-8.35757,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_87,WISDM,HAR,183.38,pretrain,-8.28024,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_88,WISDM,HAR,185.38,pretrain,-8.12685,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_89,WISDM,HAR,187.38,pretrain,-8.31938,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_90,WISDM,HAR,189.38,pretrain,-8.24306,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_91,WISDM,HAR,191.38,pretrain,-8.16605,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_92,WISDM,HAR,193.38,pretrain,-7.97201,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_93,WISDM,HAR,195.38,pretrain,-8.27886,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_94,WISDM,HAR,197.38,pretrain,-7.73311,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_95,WISDM,HAR,199.38,pretrain,-7.11374,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_96,WISDM,HAR,201.38,pretrain,-1.25617,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_97,WISDM,HAR,203.38,pretrain,3.05049,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_98,WISDM,HAR,205.38,pretrain,6.05707,20,6,10,accel_xyz + gyro_xyz,pass
+wisdm_10s_99,WISDM,HAR,207.38,pretrain,6.44568,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_0,mHealth,HAR,1,pretrain,0.00850442255006201,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_1,mHealth,HAR,1,pretrain,0.0025030912900669503,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_2,mHealth,HAR,1,pretrain,0.0014663764073011409,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_3,mHealth,HAR,1,pretrain,0.0010793657759166672,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_4,mHealth,HAR,1,pretrain,0.0008906648244583631,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_5,mHealth,HAR,1,pretrain,0.0007857614996172198,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_6,mHealth,HAR,1,pretrain,0.0007241305041218584,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_7,mHealth,HAR,1,pretrain,0.0006889163516723784,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_8,mHealth,HAR,1,pretrain,0.0006731564695038833,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_9,mHealth,HAR,1,pretrain,0.0006758647122012918,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_10,mHealth,HAR,1,pretrain,0.0007033292380418496,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_11,mHealth,HAR,1,pretrain,0.0007824960293267885,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_12,mHealth,HAR,1,pretrain,0.0010804653901234716,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_13,mHealth,HAR,1,pretrain,0.9982398257793398,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_14,mHealth,HAR,1,pretrain,1.000191176745288,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_15,mHealth,HAR,1,pretrain,1.0003854804625696,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_16,mHealth,HAR,1,pretrain,1.0004961402517232,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_17,mHealth,HAR,1,pretrain,1.0006277541378699,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_18,mHealth,HAR,1,pretrain,1.0009473829655426,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_19,mHealth,HAR,1,pretrain,-0.011596923306931859,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_20,mHealth,HAR,1,pretrain,-7.503672406601256e-05,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_21,mHealth,HAR,1,pretrain,0.00022441962336306462,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_22,mHealth,HAR,1,pretrain,0.00038368803769232444,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_23,mHealth,HAR,1,pretrain,0.0005654126328141027,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_24,mHealth,HAR,1,pretrain,0.0009747519743650603,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_25,mHealth,HAR,1,pretrain,0.008957642237996189,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_26,mHealth,HAR,1,pretrain,1.9992458910408801,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_27,mHealth,HAR,1,pretrain,1.9997780291753497,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_28,mHealth,HAR,1,pretrain,1.9999626651632827,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_29,mHealth,HAR,1,pretrain,2.0000842280397957,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_30,mHealth,HAR,1,pretrain,2.0002443944426425,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_31,mHealth,HAR,1,pretrain,2.001350463484185,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_32,mHealth,HAR,1,pretrain,-0.0004404101918905508,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_33,mHealth,HAR,1,pretrain,-0.00019365328048646919,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_34,mHealth,HAR,1,pretrain,-0.00014947606609319337,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_35,mHealth,HAR,1,pretrain,-0.00017597028614545709,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_36,mHealth,HAR,1,pretrain,-0.0003118654840835371,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_37,mHealth,HAR,1,pretrain,-0.0012573277112506913,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_38,mHealth,HAR,1,pretrain,3.000856635667676,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_39,mHealth,HAR,1,pretrain,3.0003247276217944,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_40,mHealth,HAR,1,pretrain,3.0001462767320852,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_41,mHealth,HAR,1,pretrain,2.9999681092089268,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_42,mHealth,HAR,1,pretrain,2.99962084039,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_43,mHealth,HAR,1,pretrain,2.9980038928076693,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_44,mHealth,HAR,1,pretrain,0.0032913256426459706,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_45,mHealth,HAR,1,pretrain,0.001405882753104088,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_46,mHealth,HAR,1,pretrain,0.0010660448750543583,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_47,mHealth,HAR,1,pretrain,0.0009405454407571233,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_48,mHealth,HAR,1,pretrain,0.0008905272519147549,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_49,mHealth,HAR,1,pretrain,0.0008805389884089528,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_50,mHealth,HAR,1,pretrain,0.0009000800790777562,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_51,mHealth,HAR,1,pretrain,0.0009496353071954582,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_52,mHealth,HAR,1,pretrain,0.0010403116715159593,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_53,mHealth,HAR,1,pretrain,0.0012052517498940248,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_54,mHealth,HAR,1,pretrain,0.0015550500863030323,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_55,mHealth,HAR,1,pretrain,0.0027438210400253875,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_56,mHealth,HAR,1,pretrain,3.9908941540277705,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_57,mHealth,HAR,1,pretrain,3.9991741619862213,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_58,mHealth,HAR,1,pretrain,3.9999005452549867,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_59,mHealth,HAR,1,pretrain,4.0002242062876805,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_60,mHealth,HAR,1,pretrain,4.000487750901919,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_61,mHealth,HAR,1,pretrain,4.00094084365459,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_62,mHealth,HAR,1,pretrain,-0.019749023189821666,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_63,mHealth,HAR,1,pretrain,-0.0002521512040495452,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_64,mHealth,HAR,1,pretrain,0.00013075452951846986,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_65,mHealth,HAR,1,pretrain,0.0003038094449460914,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_66,mHealth,HAR,1,pretrain,0.000427411840519344,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_67,mHealth,HAR,1,pretrain,0.0005380508521886078,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_68,mHealth,HAR,1,pretrain,0.0006524456477339846,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_69,mHealth,HAR,1,pretrain,0.0007845805218687748,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_70,mHealth,HAR,1,pretrain,0.000953799608234258,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_71,mHealth,HAR,1,pretrain,0.0011979284562426622,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_72,mHealth,HAR,1,pretrain,0.0016167419789149427,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_73,mHealth,HAR,1,pretrain,0.0026201403725538697,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_74,mHealth,HAR,1,pretrain,0.011114897370625841,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_75,mHealth,HAR,1,pretrain,5.997204695289684,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_76,mHealth,HAR,1,pretrain,5.999358248225611,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_77,mHealth,HAR,1,pretrain,6.00013560674579,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_78,mHealth,HAR,1,pretrain,6.000803326082988,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_79,mHealth,HAR,1,pretrain,6.001936629457233,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_80,mHealth,HAR,1,pretrain,6.007942710242807,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_81,mHealth,HAR,1,pretrain,-0.005572193581197389,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_82,mHealth,HAR,1,pretrain,-0.0021617309111186477,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_83,mHealth,HAR,1,pretrain,-0.0013311725062289045,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_84,mHealth,HAR,1,pretrain,-0.0009389758281124523,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_85,mHealth,HAR,1,pretrain,-0.0007018782543635462,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_86,mHealth,HAR,1,pretrain,-0.0005377979578857775,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_87,mHealth,HAR,1,pretrain,-0.0004137923966976815,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_88,mHealth,HAR,1,pretrain,-0.00031385815741959963,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_89,mHealth,HAR,1,pretrain,-0.0002291249178571161,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_90,mHealth,HAR,1,pretrain,-0.0001541387792538737,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_91,mHealth,HAR,1,pretrain,-8.521971819279857e-05,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_92,mHealth,HAR,1,pretrain,-1.9639344869672048e-05,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_93,mHealth,HAR,1,pretrain,4.484524743939304e-05,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_94,mHealth,HAR,1,pretrain,0.00011030094688014983,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_95,mHealth,HAR,1,pretrain,0.00017887475321642002,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_96,mHealth,HAR,1,pretrain,0.00025307074450814983,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_97,mHealth,HAR,1,pretrain,0.0003361331084728591,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_98,mHealth,HAR,1,pretrain,0.00043268175731980596,20,6,10,accel_xyz + gyro_xyz,pass
+mhealth_10s_99,mHealth,HAR,1,pretrain,0.0005499194747320144,20,6,10,accel_xyz + gyro_xyz,pass
+eeg_0,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_1,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_2,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_3,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_4,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_5,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_6,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_7,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_8,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_9,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_10,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_11,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_12,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_13,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_14,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_15,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_16,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_17,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_18,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_19,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_20,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_21,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_22,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_23,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_24,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_25,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_26,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_27,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_28,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_29,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_30,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_31,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_32,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_33,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_34,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_35,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_36,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_37,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_38,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_39,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_40,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_41,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_42,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_43,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+eeg_44,EEGMMIDB,EEG,S001,pretrain,motor_imagery,160,64,4,64_channel_10-10_system,pass
+ecg_0,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_1,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_2,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_3,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_4,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_5,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_6,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_7,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_8,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_9,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_10,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_11,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_12,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_13,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_14,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_15,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_16,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_17,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_18,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_19,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_20,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_21,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_22,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_23,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_24,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_25,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_26,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_27,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_28,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_29,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_30,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_31,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_32,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_33,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_34,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_35,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_36,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_37,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_38,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_39,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_40,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_41,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_42,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_43,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_44,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_45,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_46,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_47,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_48,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_49,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_50,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_51,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_52,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_53,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_54,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_55,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_56,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_57,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_58,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_59,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_60,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_61,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_62,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_63,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_64,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_65,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_66,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_67,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_68,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_69,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_70,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_71,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_72,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_73,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_74,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_75,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_76,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_77,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_78,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_79,PTB-XL,ECG,00001,train,normal,100,12,2,12_leads,pass
+ecg_80,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_81,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_82,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_83,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_84,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_85,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_86,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_87,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_88,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_89,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_90,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_91,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_92,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_93,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_94,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_95,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_96,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_97,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_98,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
+ecg_99,PTB-XL,ECG,00001,test,normal,100,12,2,12_leads,pass
